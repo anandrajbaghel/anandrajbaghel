@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Anand
-- 👀 I’m interested in learning.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on new projects related to c++
 - 📫 Email me! aanandrajbaghel@gmail.com
