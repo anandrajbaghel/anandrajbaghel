@@ -23,13 +23,15 @@ This is where I like to hang out and build things. Curious? Check out my contrib
 
 ## 💡 Project Highlights
 
-<img width="400" alt="{E32B815D-DA26-470A-926E-E3ECEF2CC30F}" src="https://github.com/user-attachments/assets/1211104c-7499-4ecd-b908-f1c5758c067b" />
-
-<img width="400" alt="{E32B815D-DA26-470A-926E-E3ECEF2CC30F}" src="https://github.com/user-attachments/assets/2a56aa21-fc1a-474d-8836-cd506f5f736d" />
-
-<img width="400" alt="{E32B815D-DA26-470A-926E-E3ECEF2CC30F}" src="https://github.com/user-attachments/assets/770f3120-4fff-421e-af0b-52b9ef0fd123" />
-
-<img width="400" alt="{E32B815D-DA26-470A-926E-E3ECEF2CC30F}" src="https://github.com/user-attachments/assets/3d1899f9-8223-4175-b9b9-de94615d38a5" />
+<div align="center">
+  <img width="400" alt="{E32B815D-DA26-470A-926E-E3ECEF2CC30F}" src="https://github.com/user-attachments/assets/1211104c-7499-4ecd-b908-f1c5758c067b" />
+  
+  <img width="400" alt="{E32B815D-DA26-470A-926E-E3ECEF2CC30F}" src="https://github.com/user-attachments/assets/2a56aa21-fc1a-474d-8836-cd506f5f736d" />
+  
+  <img width="400" alt="{E32B815D-DA26-470A-926E-E3ECEF2CC30F}" src="https://github.com/user-attachments/assets/770f3120-4fff-421e-af0b-52b9ef0fd123" />
+  
+  <img width="400" alt="{E32B815D-DA26-470A-926E-E3ECEF2CC30F}" src="https://github.com/user-attachments/assets/3d1899f9-8223-4175-b9b9-de94615d38a5" />
+</div>
 
 ## 🌐 Let's Connect! 🤝
 
