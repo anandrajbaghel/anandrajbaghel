@@ -41,6 +41,4 @@ I'm excited to connect with fellow tech enthusiasts and collaborators. Feel free
 
 [LinkedIn](https://www.linkedin.com/in/anandrajbaghel/) - Let's network and share insights!
 
-[Blog](https://anandrajbaghel.github.io/Blog-Website/blog.html) - What's cooking!
-
 [Drop a message](https://anandrajbaghel.github.io/Blog-Website/contact.html) - Send me a message
